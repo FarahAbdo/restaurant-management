@@ -146,9 +146,4 @@ restaurant-management/
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
 
-- Running instructions
-- Project structure
-- API documentation
-- Contributing guidelines
-
 
