@@ -146,16 +146,6 @@ restaurant-management/
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
 
-## Acknowledgments
-- React documentation
-- Azure MySQL documentation
-- Tailwind CSS
-```
-
-This README provides:
-- Clear installation instructions
-- Database setup steps
-- Configuration requirements
 - Running instructions
 - Project structure
 - API documentation
