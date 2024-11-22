@@ -2,6 +2,8 @@
 
 A full-stack restaurant management application built with React, Node.js, and Azure MySQL.
 
+![image](https://github.com/user-attachments/assets/1d01bfc0-708f-4e76-8089-3fbb5b246112)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
