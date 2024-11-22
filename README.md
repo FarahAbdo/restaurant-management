@@ -20,7 +20,7 @@ A full-stack restaurant management application built with React, Node.js, and Az
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/FarahAbdo/restaurant-management.git
 cd restaurant-management
 ```
 
